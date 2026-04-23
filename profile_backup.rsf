@@ -1,0 +1,31 @@
+{
+  "a": "checkpoint2",
+  "b": "checkpoint2",
+  "c": {
+    "SettingLanguage": "10",
+    "SettingAutoContinueDialogue": false,
+    "SettingsPlayerProfile": 3,
+    "SettingFilmGrainEffectsSlider": 0,
+    "SettingLensDistortionToggle": true,
+    "SettingHudAnimation": true,
+    "SettingAnalytics": 1
+  },
+  "d": "{\"bindings\":[{\"action\":\"WorldMap/Move\",\"id\":\"e2f9aa65-db06-4c5b-a2e9-41bc8acb9517\",\"path\":\"null\",\"interactions\":\"null\",\"processors\":\"stickDeadzone(min=0.0665,max=1)\"},{\"action\":\"WorldMap/Look\",\"id\":\"d1d171b6-19d8-47a6-ba3a-71b6a8e7b3c0\",\"path\":\"null\",\"interactions\":\"null\",\"processors\":\"stickDeadzone(min=0.0475,max=1)\"}]}",
+  "e": true,
+  "f": {
+    "BoomTown": 20,
+    "FireStarter": 20,
+    "GonnaNeedABiggerCapacitorDoc": 0,
+    "HotStreak": 5,
+    "ScorchingStreak": 10,
+    "SquishSquash": 12,
+    "WeHaveChowYunFatAtHome": 1
+  },
+  "g": {
+    "BeetleBattle": 0,
+    "BaseballCards": 1,
+    "CockroachRacing": 0
+  },
+  "h": true,
+  "i": true
+}
